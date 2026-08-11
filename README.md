@@ -6,7 +6,7 @@ This portfolio showcases my technical skills, projects, certifications, achievem
 
 ## 🚀 Live Portfolio
 
-[View My Portfolio](YOUR_GITHUB_PAGES_LINK)
+[View My Portfolio](https://shameemmohammed678-hue.github.io/shameem-portfolio/)
 
 ## 👨‍💻 About Me
 
@@ -71,11 +71,7 @@ Completed professional training covering frontend development, Python backend de
 
 ## 📬 Contact
 
-Feel free to connect with me through my portfolio's contact section.
-
-- LinkedIn: YOUR_LINKEDIN_LINK
-- GitHub: YOUR_GITHUB_LINK
-- Email: YOUR_EMAIL
+For contact details and social links, visit the [Contact](https://shameemmohammed678-hue.github.io/shameem-portfolio/contact.html) section of my portfolio.
 
 ---
 

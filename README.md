@@ -50,6 +50,7 @@ Some of my projects are showcased in the portfolio, including:
 - Library Management System
 - Blood Donor Finder & Emergency Request System
 - Personal Portfolio Website
+- Starbucks Website Clone
 
 ## 🎓 Education
 
